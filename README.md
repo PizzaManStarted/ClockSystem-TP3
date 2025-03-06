@@ -1,4 +1,5 @@
 ![Build Status](https://github.com/pizzaManStarted/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg)
+![Build Status](https://github.com/pizzaManStarted/ClockSystem-TP3/actions/workflows/pmd.yml/badge.svg)
 
 # ClockSystem
 
